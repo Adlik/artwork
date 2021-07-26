@@ -5,4 +5,4 @@ In this repo, we provide Adlik artwork in 3 standard formats (EPS/SVG/AI), and i
 Please refer to Linux Foundation Trademark Usage page to learn about the usage policy and guidelines: https://www.linuxfoundation.org/trademark-usage. 
 
 # Questions? 
-Please email info@lfai.foundation.
+Please email info@lfaidata.foundation.
